@@ -1,9 +1,4 @@
 streamlit
 yfinance
 pandas
-smtplib
-email
-email.mime.text
-email.mime.multipart
-csv
 
