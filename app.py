@@ -24,7 +24,7 @@ st.markdown("""
 
 
 st.title("📈 Live Market Tracker Dashboard")
-st.write("Track your portfolio aginst the 7-day Movine Average in real-time.")
+st.write("Track your portfolio against the 7-day Moving Average in real-time.")
 
 # Sidebar for user input
 st.sidebar.header("Settings")
